@@ -17,7 +17,7 @@ verify the certification conditions.
 
 ## How to run
 
-### Stage 1 (optional — a pretrained surrogate is already provided)
+### Stage 1
 
 Requires MATLAB with the Deep Learning Toolbox.
 
